@@ -2527,7 +2527,7 @@ https://lnc-nbc-news-now.tubi.video/master.m3u8
 
 ########################################################################RADIO#########################################################################################
 
-#EXTINF:-1 tvg-id="CHN" group-title="RADIO" group-logo="https://mifntechnology.github.io/siaranMy/logo/Suria.png" tvg-logo="https://media2.fishtank.my/stations/astro-kbs-world/updated/square_md.png",Suria FM
+#EXTINF:-1 tvg-id="CHN" group-title="RADIO" group-logo="https://mifntechnology.github.io/siaranMy/logo/Suria.png" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Suria.png",Suria FM
 https://mifntechnology.github.io/siaranMy/radio/SuriaFm/playlist.m3u8
 
 
