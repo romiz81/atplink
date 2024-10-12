@@ -2092,6 +2092,9 @@ http://yesimes.oknirvana.club:8880/JH12M3D196/fRV363z8kz/28823
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://i.postimg.cc/j2KmhyTz/download-2023-06-30-T091307-415.jpg" tvg-id="" tvg-name="" group-title="MOVIES", Sony Pix
 http://yesimes.oknirvana.club:8880/JH12M3D196/fRV363z8kz/55305
 
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-name="MyTime Movie Network" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="MOVIES"  ,MyTime Movie Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBOSignature1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature (SG)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
