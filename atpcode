@@ -2095,6 +2095,9 @@ http://yesimes.oknirvana.club:8880/JH12M3D196/fRV363z8kz/55305
 #EXTINF:-1 tvg-id="CHN" tvg-name="MyTime Movie Network" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="MOVIES",MyTime Movie Network 
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CHN" tvg-name="Pluto TV Action" tvg-logo="https://i.imgur.com/tDapGal.png" group-title="MOVIES",Pluto TV Action 
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac632-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bd2e9c0-393b-484b-b5bc-b1869a276513
+
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBOSignature1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature (SG)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
