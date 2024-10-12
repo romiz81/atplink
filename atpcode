@@ -2547,7 +2547,8 @@ https://hls.rastream.com/astro-red-radio
 #EXTINF:-1 tvg-id="CHN" group-title="RADIO" tvg-logo="https://i.ibb.co/Gk429L1/logo-t.png",RAKITA
 https://23683.live.streamtheworld.com/RAKITAAAC.aac
 
-
+#EXTINF:-1 tvg-id="CHN" group-title="RADIO" ch-number="999" tvg-logo="https://ms.wikipedia.org/wiki/Suria_(stesen_radio)#/media/Fail:Suria_logo-01.png",Suria FM
+https://mifntechnology.github.io/siaranMy/radio/SuriaFm/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CHN" group-title="RADIO" ch-number="828" tvg-logo="https://i.ibb.co/6R5zhKn/23b9fa60d48cd96820eeec7e59148ccb.jpg",Best Of TikTok
 http://node-10.zeno.fm:80/6cf3bsmbyf9uv
