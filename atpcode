@@ -916,10 +916,8 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 ##https://linearjitp02-playback.astro.com.my/vsg/41Q2JOX8KtOe28ba8x3splIguOrP487D2BAVqzhfqNLpU=z4VY/dash-wv/jitp-linearwm/1004/default.mpd
 
 
-#EXTINF:-1 tvg-id="AstroCitra" group-title="MALAYSIA" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-##https://linears-playback.astro.com.my/vsg/41VKHsj_WiLj_8PIlULli0WzhUDi-8zGm7sgyhAlDF5UQ=UBTa/dash-wv/jitp-dashisowm/2700/default.mpd
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/128_300.png" group-title="MALAYSIA", Astro Citra
+http://50.7.220.74:8278/Citra/playlist.m3u8?tid=m02000000000010362776&ct=17958&tsum=dc40ef1aeb6d02be3b40e2da82894583
 
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="MALAYSIA" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
