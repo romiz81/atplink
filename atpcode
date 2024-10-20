@@ -1109,7 +1109,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
 https://shorturl.at/pszP4
 
 
-EXTINF:-1 tvg-name="Astro Warna HD" tvg-id="107" group-title="MALAYSIA" ch-number="107" tvg-logo="https://i.imgur.com/JCn7Yd0.png",Astro Warna 
+#EXTINF:-1 tvg-name="Astro Warna HD" tvg-id="107" group-title="MALAYSIA" ch-number="107" tvg-logo="https://i.imgur.com/JCn7Yd0.png",Astro Warna 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
