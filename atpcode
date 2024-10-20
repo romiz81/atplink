@@ -1101,7 +1101,7 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
 
 
-#EXTINF:-1 tvg-id="Astro Citra HD" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",Astro Citra HD
+#EXTINF:-1 tvg-id="Astro Citra HD" group-title="MALAYSIA" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",Astro Citra HD
 ##KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1109,13 +1109,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
 https://shorturl.at/pszP4
 
 
-#EXTINF:-1 tvg-name="Astro Warna HD" tvg-id="107" group-title="MALAYSIA" ch-number="107" tvg-logo="https://i.imgur.com/JCn7Yd0.png",Astro Warna 
+#EXTINF:-1 tvg-name="Astro Warna HD" tvg-id="107" group-title="MALAYSIA" ch-number="107" tvg-logo="https://i.imgur.com/JCn7Yd0.png",Astro Warna
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810": "0a80e20c568e88e53c7087c1c6493318"}
-#https://shorturl.at/jsyDX
-https://linear05-playback.sooka.my/CH1/masterCH1.mpd
+https://shorturl.at/jsyDX
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
