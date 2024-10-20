@@ -1101,11 +1101,12 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
 
 
-#EXTINF:-1 tvg-id="Astro Citra HD" group-title="MALAYSIA" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355", Astro Citra HD
+#EXTINF:-1 tvg-id="Astro Citra HD" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",Astro Citra HD
+##KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10": "376b009796e4ad50ea8f68d796676692"}
-#https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroCitraHD
+#KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10": "654f2d25a5bfb27c9e5ae0852584a166"}
+https://shorturl.at/pszP4
 
 
 EXTINF:-1 tvg-name="Astro Warna HD" tvg-id="107" group-title="MALAYSIA" ch-number="107" tvg-logo="https://i.imgur.com/JCn7Yd0.png",Astro Warna 
@@ -1113,8 +1114,8 @@ EXTINF:-1 tvg-name="Astro Warna HD" tvg-id="107" group-title="MALAYSIA" ch-numbe
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810": "0a80e20c568e88e53c7087c1c6493318"}
-https://shorturl.at/jsyDX
-#https://linear05-playback.sooka.my/CH1/masterCH1.mpd
+#https://shorturl.at/jsyDX
+https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
