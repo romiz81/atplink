@@ -1113,12 +1113,12 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_pri
 https://shorturl.at/pszP4
 
 
-#EXTINF:-1 tvg-name="Astro Warna HD" tvg-id="107" group-title="MALAYSIA" ch-number="107" tvg-logo="https://i.imgur.com/JCn7Yd0.png",Astro Warna
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810": "0a80e20c568e88e53c7087c1c6493318"}
-https://shorturl.at/jsyDX
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Astro Warna CH107
+https://noisy-butterfly-a39d.lu-mau-apaan-sih-waduhhh.workers.dev/2402/index.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
