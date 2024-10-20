@@ -1117,13 +1117,14 @@ https://shorturl.at/pszP4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" group-title="MALAYSIA" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",ASTRO WARNA A
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD A" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",ASTRO WARNA A
 https://dost.worst.workers.dev/143/index.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" group-title="MALAYSIA" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",ASTRO WARNA HD B
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD B" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",ASTRO WARNA HD B
 https://royal-water-e008.lu-mau-apaan-sih-waduhhh.workers.dev/2402/index.mpd
 
 
