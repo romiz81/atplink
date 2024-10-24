@@ -617,7 +617,10 @@ http://tooontv.com:999/live/ere3444h/agape/184849.m3u
 ######## INDONESIA ########
 ##########################
 
-
+#EXTINF:-1 group-title="INDONESIA" tvg-id="thrill.hk" tvg-logo="https://iptv.urfan.web.id/logo/thrill.png",Thrill
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
 
 ##########################
 ######## LPP TVRI ########
