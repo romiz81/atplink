@@ -4055,7 +4055,7 @@ https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?listeningSessionID=65
 
 
 
-#EXTINF:-1 type="movie" group-title="VOD MOVIES" group-logo="" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041162X0-portrait.jpg",Meg 2: The Trench 2023
+#EXTINF:-1 type="movie" group-title="VOD MOVIES" group-logo="https://we2usat.com/wp-content/uploads/2023/11/2.-Gallery-Screen-1-1024x576.png" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGNiOTFkYTUtMDdiMi00YmJlLTkzOTAtMGViYWRhZjY3ODhkXkEyXkFqcGc@._V1_.jpg",Meg 2: The Trench 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
