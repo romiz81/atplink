@@ -1197,7 +1197,7 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
 
-#EXTINF:-1 tvg-id="AstroSensasi" tvg-name="Astro Sensasi HD" group-title="MALAYSIA" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/108.png",Astro Sensasi HD
+#EXTINF:-1 tvg-id="AstroSensasi" tvg-name="Astro Sensasi HD" group-title="MALAYSIA" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://ms.wikipedia.org/wiki/Astro_Sensasi#/media/Fail:Astro_Sensasi_(2024).png",Astro Sensasi HD
 https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
 
 
