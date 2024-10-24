@@ -552,7 +552,7 @@ https://d2e27gsr9y6c4h.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617
 ##########################################ANOTHER SPORT#####################################################
 
 
-#EXTINF:-1 tvg-id="MUTV.uk" ch-number=" " tvg-name="MUTV" group-title="ANOTHER SPORTS" group-logo="https://iili.io/dirVHCJ.jpg" tvg-logo="https://i.ibb.co/MMb4NGr/download-15-modified.png" group-title="ANOTHER SPORTS",Man United TV
+#EXTINF:-1 tvg-id="MUTV.uk" ch-number=" " tvg-name="MUTV" group-title="ANOTHER SPORTS" group-logo="https://miro.medium.com/v2/resize:fit:1400/1*KRItlZasrX61csyqBOLcvw.jpeg" tvg-logo="https://i.ibb.co/MMb4NGr/download-15-modified.png" group-title="ANOTHER SPORTS",Man United TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 # http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/1102
 
@@ -4055,7 +4055,7 @@ https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?listeningSessionID=65
 
 
 
-#EXTINF:-1 type="movie" group-title="VOD MOVIES" group-logo="https://iili.io/dirVHCJ.jpg" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041162X0-portrait.jpg",Meg 2: The Trench 2023
+#EXTINF:-1 type="movie" group-title="VOD MOVIES" group-logo="" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041162X0-portrait.jpg",Meg 2: The Trench 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
