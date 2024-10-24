@@ -1162,7 +1162,7 @@ https://web.hypp.tv/PLTV/88888888/224/3221227501/3221227501.mpd?rrsip=web.hypp.t
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
-#EXTINF:-1 group-title="MALAYSIA" ch-number="112" tvg-id="112" tvg-logo="https://awesometv.my/upload/Logo%20&%20Favicon/logo-ATV.png",Awesome TV
+#EXTINF:-1 group-title="MALAYSIA" ch-number="123" tvg-id="AwesomeTV" tvg-logo="https://awesometv.my/upload/Logo%20&%20Favicon/logo-ATV.png",123 Awesome TV
 https://222861.global.ssl.fastly.net/6698cc14fa04165068a80345/live_e5f0c8504d8b11efbacf2feeebc6c76f/index.m3u8
   
   
