@@ -1196,7 +1196,7 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
+
 #EXTINF:-1 tvg-id="AstroSensasi" tvg-name="Astro Sensasi HD" group-title="MALAYSIA" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/108.png",Astro Sensasi HD
 https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
 
