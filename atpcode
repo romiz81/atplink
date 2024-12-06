@@ -1595,6 +1595,16 @@ http://50.7.234.10:8278/Warna/playlist.m3u8
 http://50.7.234.10:8278/Goshop/playlist.m3u8
 
 
+#EXTINF:-1, group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png/revision/latest/scale-to-width-down/300?cb=20200406224042",ASTROFHD1
+#http://playtv.my.id/play/astrofhd1.m3u8
+
+#EXTINF:-1, group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png/revision/latest/scale-to-width-down/300?cb=20200406224042",ASTROFHD2
+#http://playtv.my.id/play/astrofhd2.m3u8
+
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="MALAYSIA" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nfyyg.png",Astro Citra HD CH108
+http://50.7.234.10:8278/Citra/playlist.m3u8
+
+
 ############################## SINGAPORE #####################################################################################################################################
 
 
