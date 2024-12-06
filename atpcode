@@ -1591,7 +1591,8 @@ http://iptv12k.com:35461/live/m241002238912839/111111/3748.ts
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="MALAYSIA" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nfp8F.png",Astro Warna HD CH107
 http://50.7.234.10:8278/Warna/playlist.m3u8 
   
-  
+  #EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" group-title="MALAYSIA" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NqAMl.png",Awesome TV CH123
+http://50.7.234.10:8278/Goshop/playlist.m3u8
 
 
 ############################## SINGAPORE #####################################################################################################################################
