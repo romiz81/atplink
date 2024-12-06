@@ -1088,17 +1088,7 @@ https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.m
 
 ###############################################################MALAYSIA######################################################################################################################
 
-#EXTINF:-1 tvg-id="AstroRia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="MALAYSIA", Astro Ria HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://d37lxn4ksn51zz.cloudfront.net/ria.mpd
 
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="MALAYSIA",Astro Warna HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://d37lxn4ksn51zz.cloudfront.net/warna.mpd
 
 
 #EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="https://iili.io/dirVHCJ.jpg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 (Server 1)
@@ -1578,9 +1568,91 @@ https://tinyurl.com/yr26ptbz
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5600/default_primary.mpd
 
 
+#EXTINF:-1 tvg-id="AstroRia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="MALAYSIA", Astro Ria HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://d37lxn4ksn51zz.cloudfront.net/ria.mpd
 
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="MALAYSIA",Astro Warna HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://d37lxn4ksn51zz.cloudfront.net/warna.mpd
 
+#EXTINF:-1 tvg-id="AstroPrima" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",PRIMA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://d37lxn4ksn51zz.cloudfront.net/prima.mpd
 
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="AstroSensasi" ch-number="123" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33024513_ico.png?ts=1730189202",123 Astro Sensasi
+http://iptv12k.com:35461/live/m241002238912839/111111/3748.ts
+  
+  
+  
+  
+  
+  
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1004
+#EXTINF:-1 group-title="MALAYSIA"   tvg-id="AstroRia" ch-number="104" group-logo="https://i.ibb.co/RDxdzBS/0b2e9d02-7f8d-409f-ba69-c30af4ddd61b-20241006-164042-0000.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria 2
+http://perfecttv.net:8080/Perfecttv/Perfecttv/3
+#http://iptv12k.com:35461/live/m241002238912839/111111/735.ts
+  
+  
+  
+  
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hBL0RP++NQzy7OBR+RUukA","kid":"C2Uyau3j7b6B5vtAMX1TEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Astro_Prima_HD.png" ch-number="105",105 Astro Prima 2
+#http://iptv12k.com:35461/live/m241002238912839/111111/734.ts
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1  
+  
+  
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="107.astro" tvg-name="WARNA HD" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" ch-number="107",107 Astro Warna 2
+#http://iptv12k.com:35461/live/m241002238912839/111111/5075.ts
+http://perfecttv.net:8080/Perfecttv/Perfecttv/2   
+
+  
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-logo="https://rocket-tv.online/Gambar.webp" ch-number="108",108 Astro Citra 2
+
+http://perfecttv.net:8080/Perfecttv/Perfecttv/4
+  
+..........terbaik........
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1004
+#EXTINF:-1 group-title="MALAYSIA"   tvg-id="AstroRia" ch-number="104" group-logo="https://i.ibb.co/RDxdzBS/0b2e9d02-7f8d-409f-ba69-c30af4ddd61b-20241006-164042-0000.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria 
+https://tinyurl.com/XtroRia2
+  
+  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hBL0RP++NQzy7OBR+RUukA","kid":"C2Uyau3j7b6B5vtAMX1TEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Astro_Prima_HD.png" ch-number="105",105 Astro Prima
+https://tinyurl.com/Xtroprima2
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="107.astro" tvg-name="WARNA HD" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" ch-number="107",107 Astro Warna 
+https://tinyurl.com/Xtrowarna02
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-logo="https://rocket-tv.online/Gambar.webp" ch-number="108",108 Astro Citra
+https://tinyurl.com/Xtrocitra02
 
 ############################## SINGAPORE #####################################################################################################################################
 
