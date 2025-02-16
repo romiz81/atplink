@@ -2100,7 +2100,9 @@ https://jmp2.uk/sam-USAJ30000041W.m3u8
 ########################################################################RADIO#########################################################################################
 
 
-
+#EXTINF:-1 tvg-id="CHN" group-title="RADIO" ch-number="999" tvg-logo="https://media.suria.my/wp-content/uploads/2023/07/31100922/suria-logo.png",Suria FM
+https://28093.live.streamtheworld.com/SURIA_FM.mp3
+#https://mifntechnology.github.io/siaranMy/radio/SuriaFm/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CHN" group-title="RADIO" group-logo="https://iili.io/dirVHCJ.jpg" tvg-logo="https://media2.fishtank.my/stations/astro-kbs-world/updated/square_md.png",KBS World Radio
 https://hls.rastream.com/astro-kbs-world
