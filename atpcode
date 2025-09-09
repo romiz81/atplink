@@ -68,14 +68,6 @@ https://linears2-playback.astro.com.my/vsg/41V06jrYuHgFAUhdcEpn5YQNvaBnyH0pKzGVB
 https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/412FWKIvH50QL13OSRLW5p8JSQZeQFQQugN2WVWpOwMGA=DIrI/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=7c55d6b3-8643-4386-88ee-2d771de2cbf2
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="MALAYSIA" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Citra_%282024%29.png/400px-Astro_Citra_%282024%29.png" ch-number="108",108 CITR@ (TESTING CHANNEL ON/OFF)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://wahyu1ptv.pages.dev/AstroCitra-HD.m3u8
-
-
-
 ####################################################################################################
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -201,7 +193,8 @@ http://jomtv.vip:2082/live/Erny112/Jtv0987/18.ts
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; TMRV075G Build/UKQ1.230924.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="108" tvg-name="Astro Citra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="MALAYSIA",ASTRO CITRA HD 
-http://jomtv.vip:2082/live/Erny112/Jtv0987/27.ts
+https://wahyu1ptv.pages.dev/AstroCitra-HD.m3u8
+#http://jomtv.vip:2082/live/Erny112/Jtv0987/27.ts
 #http://bestp55.xyz:80/A7FC77529786/519C32219872/1052391
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_ott.mpd
 #https://linearjitp.perfecttv.net/citra.mpd
